@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
 
 # =========================
 # Operating System Files
@@ -41,3 +42,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.lib
+*.dll
+*.rsp
+*.zip
+*.pch
+*.obj
+
+libtorrent-rasterbar-0.16.13.rar
+bin/*
